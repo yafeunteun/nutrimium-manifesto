@@ -1,3 +1,8 @@
+#+BEGIN_QUOTE
+Policy and aims of Nutrimium
+#+END_QUOTE
+
+
 * Nutrimum
 
 It takes active planning and effort to make healthful choices.
